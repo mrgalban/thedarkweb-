@@ -65,14 +65,14 @@ header {
 }
 
 body{
-    cursor: url("public/ghost-cursor.png"), auto;
+    cursor: url("public/ghost-cursor.PNG"), auto;
     font-size: 0.9rem;
     display: flex;
     flex-direction: column;
     min-height: 100vh;
 } 
 button:hover{
-    cursor: url("public/ghost-cursor.png"), auto ;
+    cursor: url("public/ghost-cursor.PNG"), auto ;
 }
 main{
     flex: 1;
